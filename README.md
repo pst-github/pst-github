@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Phyu Sin Thaw.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning C#.
